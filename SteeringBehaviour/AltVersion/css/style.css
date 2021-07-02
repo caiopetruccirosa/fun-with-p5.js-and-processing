@@ -1,0 +1,13 @@
+body {
+	background: url('../img/back.png');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: stretch;
+	background-size: cover;
+	overflow: hidden;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
